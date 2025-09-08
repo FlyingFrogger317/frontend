@@ -1,8 +1,10 @@
 SPOILER WARNING
 This contains a bunch of content from the game.
 BETA WARNING
-This content is under active development. This page is not updated very often. Therefore, do not expect this to be that close to the final product. If you really want me to keep something, send it to me in #suggestions .
->! Multiple endings:
+This content is under active development. This page is not updated very often. Therefore, do not expect this to be that close to the final product. If you really want me to keep something, send it to me in #suggestions on Discord.
+<details>
+<summary>Content</summary>
+Multiple endings:
 -  Forgiven:
     - Standard ending
     - Forgives the guy, he gets emotional ("i didn't think you were this nice"), apologizes and asks to join you
@@ -40,4 +42,5 @@ This content is under active development. This page is not updated very often. T
      - Collapse exists but cannot be chosen (I'm not that evil)
      - Murderous exists but cannot be chosen (I'm not that evil)
 - Pacifist:
-  - Alternate ending, unlock by surviving everyone, never firing a weapon, !<
+  - Alternate ending, unlock by surviving everyone, never firing a weapon,
+</details>
