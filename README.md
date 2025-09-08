@@ -41,7 +41,8 @@ Multiple endings:
      - Collapse exists but cannot be chosen (I'm not that evil)
      - Murderous exists but cannot be chosen (I'm not that evil)
 - Pacifist:
-  - Alternate ending, unlock by surviving everyone, never firing a weapon,
+  - Alternate ending, unlock by surviving everyone, never firing a weapon,<br>
+
 Storyline:
 - You start out preparing for combat against a pirate fleet (Steel class) with a Neutronium class fleet (Combat tutorial, takes about 1m)
 - You defeat them, than recieve a message that you need to travel to an adjacent star system (UI and Fleet Control tutorial, 3m)
@@ -51,6 +52,7 @@ Storyline:
 - Find friends, find islands with clues, lore, rewards
 - Make return portal, fight final battle, get cutscene confronting the betrayer, choices
 - Post game, extensions available, access to the Nexus, this is more like New Game+
+
 Tech levels:
 1. Iron
  2. Chromium
@@ -77,18 +79,21 @@ Tech levels:
 23. Phasium
 24. Spectronium
 25. Frogium
+
 Troll items:
 - Rift Expeller:
      When fired at a ship, it causes it to phase out of reality
      (also creates a copy of it in the final battle)
+
 Space travel:
 - Sub-Light: standard space travel, not much here, standard drive (early game)
 - Lightspeed: almost speed of light, really fast, but time dilation effects.... mid tier, standard/lightspeed drive (early midgame)
 - Hyperspeed: drive brings you into hyperspace, where there is no speed limit, and movement is 100x, needs a hyperspace drive and a standard drive, (midgame)
 - Jumpspeed: a tiny wormhole in hyperspace, moves extremly fast, basically instant, needs a hyperspace drive, standard drive, and a tunnel generator (orbital station, late-game) or a jump drive (ship system, extremely late game)
+
 Galaxy Gen:
-Starting System connects to clusters, which are made up of multiple systems connected closely. Clusters Connect to each other and lonely systems.
-Semi-Procedural, clusters, systems, planets, and moons are defined but have the abiltiy for randomness
-World surface is random but uses that world's stats to guide generation
-all generation is procedural, galaxy seed and size is all that is needed to gen galaxy, surfaces have their own seed and are tied to a planet/moon
-Also will be asteroid clouds, and ejected planets
+- Starting System connects to clusters, which are made up of multiple systems connected closely. Clusters Connect to each other and lonely systems.
+- Semi-Procedural, clusters, systems, planets, and moons are defined but have the abiltiy for randomness
+- World surface is random but uses that world's stats to guide generation
+- all generation is procedural, galaxy seed and size is all that is needed to gen galaxy, surfaces have their own seed and are tied to a planet/moon
+- Also will be asteroid clouds, and ejected planets
