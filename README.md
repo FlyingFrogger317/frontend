@@ -122,7 +122,10 @@ Shield types:
 - Encirclement Barrier: covers full ship, absorbs damage, and cannot be pierced, requires an absorption shield, 2x disabled regen bonus, very high hp but low regen
 
 If a shield loses its hp, it pops and takes 50% system damage
+
 Popped shields take two turns to restart and can only be reenabled after its hp gets to 25% full
+
 Disabled shields get a 2x regen bonus until reenabled
+
 Calculations:
 - Shield piercing: $\min\left(1, \frac{\min(SD, SI)}{SI} \times PC\right)$
