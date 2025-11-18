@@ -114,11 +114,13 @@ Weapon types:
 - Ballistic: Like a railgun or a cannon, has good shield damage, high armor and structure damage, but low armor and shield pierce, requires ammo, and has a low fire rate
 - Plasma: like laser cannons and stuff, average in all respects
 - Missile: Self explanitory, high damage to armor and structure, and decent armor pierce, with excellent shield pierce, but requires ammo, and does no shield damage
+
 Shield types:
 - Sectional Absorbtion: only covers an area, absorbs damage, and can be pierced, high regen and medium hp
 - Encirclement Absorbsion: covers full ship, absorbs damage, and can be pierced, high regen and medium hp
 - Sectional Barrier: only covers an area, absorbs damage, and cannot be pierced, requires an absorption shield in that area, 2x disabled regen bonus, very high hp but low regen
 - Encirclement Barrier: covers full ship, absorbs damage, and cannot be pierced, requires an absorption shield, 2x disabled regen bonus, very high hp but low regen
+
 If a shield loses its hp, it pops and takes 50% system damage
 Popped shields take two turns to restart and can only be reenabled after its hp gets to 25% full
 Disabled shields get a 2x regen bonus until reenabled
